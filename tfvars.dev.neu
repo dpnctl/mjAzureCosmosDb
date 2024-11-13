@@ -1,0 +1,6 @@
+region = "North Europe"
+resource_group_name = "dev-neu-rg"
+name = "dev-neu-cosmos"
+database_name = "dev-neu-db"
+container_name = "dev-neu-db-app1"
+partition_key_path = "/id"
